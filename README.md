@@ -1,8 +1,7 @@
-# verificacaoNumeros
+
 # 🚀 sejam todos bem vindo ao meu repositorio 
 
-
-## Iindice
+## indice
    - [Projeto - Loja de carros](#projeto---aprendendo-a-escrever-um-readme)  
    - [Descrição](#descris%C3%A3o)  
    - [Introdução](#introdu%C3%A7%C3%A3o)  
@@ -13,11 +12,9 @@
 
 
 ##Descrição📝:
-
 Este repositório contém dois scripts PHP que verificam propriedades de números inseridos pelos usuários
 
 ##Funcionalidades⚙️:
-
 1-no primeiro script verifica se um número inteiro é redondo (divisível por 10 sem resto).      
 2-no segundo script ele verifica se um numero é positivo/negativo/neutro:    
 2-O usuário digita um número em um campo de texto.   
