@@ -18,11 +18,11 @@ Este repositório contém dois scripts PHP que verificam propriedades de número
 
 ##Funcionalidades⚙️:
 
-1-no primeiro script verifica se um número inteiro é redondo (divisível por 10 sem resto).
-2-no segundo script ele verifica se um numero é positivo/negativo/neutro: 
-2-O usuário digita um número em um campo de texto.
-3-no primeiro script quando o usuario clicar no botão "Verificar", o script verifica se o número é redondo e exibe uma mensagem informando o resultado.
-4-no primeiro script quando o usuario clicar no botão "Verificar", o script verifica se o Positivo/Negativo/Neutro e exibe uma mensagem informando o resultado.
+1-no primeiro script verifica se um número inteiro é redondo (divisível por 10 sem resto).      
+2-no segundo script ele verifica se um numero é positivo/negativo/neutro:    
+2-O usuário digita um número em um campo de texto.   
+3-no primeiro script quando o usuario clicar no botão "Verificar", o script verifica se o número é redondo e exibe uma mensagem informando o resultado.      
+4-no primeiro script quando o usuario clicar no botão "Verificar", o script verifica se o Positivo/Negativo/Neutro e exibe uma mensagem informando o resultado.      
 
 ### Tecnologias Utilizadas🌐
 °HTML5       
